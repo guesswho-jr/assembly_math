@@ -60,6 +60,4 @@ conversion routines — no standard library used.
 
 - Buffer size is fixed at 8 bytes
 
-## 📄 License
 
-MIT License
